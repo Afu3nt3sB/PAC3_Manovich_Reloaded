@@ -67,7 +67,7 @@ Avui en dia els traductors automàtics detecten fins a 180 idiomes diferents, ca
 
 
 
-## Re-descubriendo la hibridació: Plataformes de vídeo.
+## Re-descubrint la hibridació: Plataformes de vídeo.
 
 
 Durant els inicis d'internet, era impensable la reproducció de vídeos en línia, a causa de la baixa velocitat de xarxa i que tampoc comptava amb cap tecnologia preparada per a tal finalitat. El que més si aproximava eren les targetes capturadores per a ordinadors, les quals es van popularitzar durant els anys noranta. Aquestes facilitaven la tasca de poder passar-se els vídeos al PC.
